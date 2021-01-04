@@ -9,7 +9,6 @@ Muhammad Aziz Nurhikmah from Computer Science 17 Universitas Negeri Jakarta
 
 Target from this repository to finish PKB course on semester 117
 
-Reference journal come from CLARANS: A Method for Clustering Objects
-for Spatial Data Mining written by Raymond T. Ng and Jiawei Han from IEEE Society
+Reference journal come from CLARANS: A Method for Clustering Objects for Spatial Data Mining written by Raymond T. Ng and Jiawei Han from IEEE Society which named as Reference Paper.
 
 We're make some changes in Classifier cause Clarans need change some sources and it research need to classify object before deal right value, at least near from predict number. 
